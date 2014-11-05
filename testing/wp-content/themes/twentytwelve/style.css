@@ -1764,3 +1764,12 @@ img#wpstats {
 		margin-left: 3.57142857rem;
 	}
 }
+body
+{
+<<<<<<< HEAD
+	background:blue!important;
+=======
+	background:green !important;
+>>>>>>> adb7d75b1332ef95337c3800da95369908e8ba9b
+	padding:10px;
+}
