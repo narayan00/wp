@@ -1766,6 +1766,10 @@ img#wpstats {
 }
 body
 {
-	background:black !important;
+<<<<<<< HEAD
+	background:blue!important;
+=======
+	background:green !important;
+>>>>>>> adb7d75b1332ef95337c3800da95369908e8ba9b
 	padding:10px;
 }
