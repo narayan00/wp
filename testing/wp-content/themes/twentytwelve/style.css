@@ -1764,3 +1764,7 @@ img#wpstats {
 		margin-left: 3.57142857rem;
 	}
 }
+body
+{
+	background:red !important;
+}
